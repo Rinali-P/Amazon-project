@@ -51,5 +51,3 @@ This project is for educational purposes. No license is applied.
 
 
 
-## 📂 Project Structure
-
